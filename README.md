@@ -1,2 +1,2 @@
-# Template-ULaval
-Template pour les travaux de l'université Laval. Adapté du template de Simon Munger.
+# Template de base 
+Template de base pour produire un nouveau travail. Les bons "packages" sont inclus comme pour le Template de l'Université Laval.
